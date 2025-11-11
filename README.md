@@ -1,6 +1,6 @@
 # *About Me*
 
-I am Alwara Fatima, a 3rd year student pursuing B.tech in CSE(Cloud Computing and Artificial Intelligence in association with IBM) at Inyegral University. I am passionate about learning new technologies and applying them to practical and research-based projects.
+I am Alwara Fatima, a 3rd year student pursuing B.tech in CSE(Cloud Computing and Artificial Intelligence in association with IBM) at Integral University. I am passionate about learning new technologies and applying them to practical and research-based projects.
 
 # *Skills*
 
